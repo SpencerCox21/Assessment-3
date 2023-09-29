@@ -5,7 +5,7 @@ console.log("hello world");
 function handleSubmit(evt) {
 	evt.preventDefault();
 	
-	alert('form submited');
+	alert('Your Contact Us form has now been submitted. Thank You!');
 }
 
 
@@ -15,11 +15,11 @@ form.addEventListener('submit', handleSubmit);
 
 
 
-let ducky = document.querySelector('#duckImg')
+let gangstaDucky = document.querySelector('#duckImg')
 
 
-ducky.addEventListener('mouseover', () => {
-	alert("The ducky has now passed it's coolness off to you!")
+gangstaDucky.addEventListener('mouseover', () => {
+	alert("The Gangsta Ducky has now passed it's coolness off to you!")
 })
 
 

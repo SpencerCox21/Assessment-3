@@ -42,3 +42,13 @@ img {
 	display: flex;
 	margin: 10px;
 }
+
+
+
+.profileBtn {
+	border-color: rgb(0, 172, 252);
+	background-color: yellow;
+	color: black;
+	font-size: 30px;
+	margin: 10px;
+}
