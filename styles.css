@@ -36,3 +36,9 @@ input {
 img {
 	max-width: 300px;
 }
+
+
+#checklist {
+	display: flex;
+	margin: 10px;
+}
